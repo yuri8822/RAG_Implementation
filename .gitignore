@@ -41,9 +41,6 @@ faiss_index.bin
 chunks_metadata.pkl
 config.json
 
-# PDF (add your specific handbook)
-*.pdf
-
 # Jupyter Notebooks
 .ipynb_checkpoints/
 *.ipynb
